@@ -1,0 +1,19 @@
+Ata de Reunião - Equipe Projeto Smart Office
+Data: 2025-10-05
+Participantes: Gerente de Projeto (Matheus Lima), TI, Facilities, RH
+
+Pauta: Revisão dos primeiros resultados dos dados simulados dos sensores.
+
+Principais Pontos:
+- A simulação de temperatura está estável e apresenta perfil esperado diário/nocturno.
+- A simulação do sensor de ocupação apresentou picos inesperados durante os fins de semana.
+
+Decisões:
+1) Investigar o script do sensor de ocupação. Responsável: Matheus Lima.
+2) Preparar apresentação dos resultados iniciais para o RH. Responsável: Matheus Lima.
+
+Ações Pendentes:
+- Validar lógica de probabilidade do sensor de ocupação e rodar nova simulação com parâmetros ajustados.
+- Agendar sessão de alinhamento com RH para comunicação do piloto.
+
+Encerramento.
