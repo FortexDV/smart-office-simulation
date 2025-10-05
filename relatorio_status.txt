@@ -1,8 +1,0 @@
-Prezada Diretoria Financeira,
-
-Durante o período de teste simulado de 7 dias, a temperatura média registrada foi de 22.13 °C. Observamos variação esperada entre períodos diurnos e noturnos, e não foram identificadas oscilações fora do padrão que indiquem falha nos sensores de temperatura.
-A partir da simulação inicial, estimamos potencial de economia de energia ao aplicar controle automático de climatização ajustado por ocupação e temperatura. Recomendamos iniciar um piloto controlado para coletar dados reais e comparar com o baseline de consumo atual para validar o retorno sobre investimento (ROI).
-
-Atenciosamente,
-Matheus Lima
-Gerente de Projeto - Smart Office
